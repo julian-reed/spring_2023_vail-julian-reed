@@ -8,10 +8,10 @@
 * Computing accuracy
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+What the foward and backward pass functions are, how to create a simple nueral network.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+This module had a lot of math, particularly about matricies which I'm not super familiar with so that was difficult, but I'm happy to be getting into the nitty-gritty of ML.
 
 ## Additional resources used 
-<To be filled>
+None.
