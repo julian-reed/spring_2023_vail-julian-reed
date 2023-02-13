@@ -9,10 +9,10 @@
 * Batch norm
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+The three different ways of minimizing overfitting, how to train a CNN.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+I'm excited to try out training a whole model for the additional problem, but I don't have the time right now to do it. It was also pretty intersting learning about how the different overfitting minimization methods work, they logically make sense but are things I never would have though of myself.
 
 ## Additional resources used 
-<To be filled>
+None
